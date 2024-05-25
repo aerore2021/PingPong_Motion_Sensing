@@ -7,3 +7,6 @@ As for C++ in STC89C52RC, I have no rights to access.
 - Then, we wrote the Verilog code to implement the state machine.
 - In the meantime, we debugged 52 microcontrollers and ADXL345 accelerometers to transmit somatosensory signals.
 - Last, we debugged the system altogether.
+
+> Every folder includes an implementation of a complex module (except the `fundemental` folder) and a explanation in each markdown.
+> All modules are integrated in top.v finally.
